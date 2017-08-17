@@ -1,0 +1,9 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\bin\Debug\MEMKey Tester Interface.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\bin\Debug\MEMKey Tester Interface.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\obj\x86\Debug\MEMKey_Tester_Interface.MEMKeyProgrammer.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\obj\x86\Debug\MEMKey_Tester_Interface.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\obj\x86\Debug\MEMKey Tester Interface.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\obj\x86\Debug\MEMKey Tester Interface.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\obj\x86\Debug\MEMKey Tester Interface.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\obj\x86\Debug\MEMKey Tester Interface.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\MEMKey Tester\MEMKey Tester Interface\MEMKey Tester Interface\bin\Debug\MEMKey Tester Interface.exe.config
